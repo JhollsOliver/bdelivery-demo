@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "997352331196",
+    "firebase_url": "https://restaurante-de-teste-v2.firebaseio.com",
+    "project_id": "restaurante-de-teste-v2",
+    "storage_bucket": "restaurante-de-teste-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997352331196:android:95a9f02e49c74f4f",
+        "android_client_info": {
+          "package_name": "gq.bdelivery.app.demorestaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997352331196-ia0ttjgc2ik1fii45ue6fcnt7vdbauo0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuT_eRvcovgY6obS5NtI4uQf7Z3afY-8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997352331196-ia0ttjgc2ik1fii45ue6fcnt7vdbauo0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "997352331196-o8pae4h141h4b9ks2dd69vn99vb78n8m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ml.sgisistemas.v2.restaurantedeteste"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

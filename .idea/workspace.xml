@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c7c75d8-da35-4557-a315-fbe1473b0964" name="Default Changelist" comment="Initial Release">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/saganov2android.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoogleService-Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archive/appstoreicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archive/googleplayfeature.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archive/googleplayicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archive/icon-restaurant.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/.pgbomit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/icons/android/drawable-hdpi-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/icons/android/drawable-ldpi-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/icons/android/drawable-mdpi-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/icons/android/drawable-xhdpi-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/icons/android/drawable-xxhdpi-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/icons/android/drawable-xxxhdpi-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/icons/ios/icon-1024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/icons/ios/icon-167.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/icons/ios/icon-40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/icons/ios/icon-40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/icons/ios/icon-50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/icons/ios/icon-50@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/icons/ios/icon-60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/icons/ios/icon-60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/icons/ios/icon-60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/icons/ios/icon-72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/icons/ios/icon-72@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/icons/ios/icon-76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/icons/ios/icon-76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/icons/ios/icon-83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/icons/ios/icon-small-40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/icons/ios/icon-small-40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/icons/ios/icon-small-40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/icons/ios/icon-small-50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/icons/ios/icon-small-50@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/icons/ios/icon-small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/icons/ios/icon-small@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/icons/ios/icon-small@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/icons/ios/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/icons/ios/icon@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/screens/android/drawable-land-hdpi-screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/screens/android/drawable-land-ldpi-screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/screens/android/drawable-land-mdpi-screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/screens/android/drawable-land-xhdpi-screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/screens/android/drawable-land-xxhdpi-screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/screens/android/drawable-land-xxxhdpi-screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/screens/android/drawable-port-hdpi-screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/screens/android/drawable-port-ldpi-screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/screens/android/drawable-port-mdpi-screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/screens/android/drawable-port-xhdpi-screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/screens/android/drawable-port-xxhdpi-screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/screens/android/drawable-port-xxxhdpi-screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/screens/ios/Default@2x~ipad~anyany.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/screens/ios/Default@2x~ipad~comany.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/screens/ios/Default@2x~iphone~anyany.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/screens/ios/Default@2x~iphone~comany.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/screens/ios/Default@3x~iphone~anyany.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/screens/ios/Default@3x~iphone~comany.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/beep.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/css/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/images/avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/images/b2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/images/nonet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/js/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/js/mapbox_wrapper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/js/template.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/gmaps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/imagesloaded.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/jquery-v3.3.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/jquery.translate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/jquery.validate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/leaflet/images/layers-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/leaflet/images/layers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/leaflet/images/marker-icon-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/leaflet/images/marker-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/leaflet/images/marker-shadow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/leaflet/leaflet-src.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/leaflet/leaflet-src.esm.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/leaflet/leaflet-src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/leaflet/leaflet-src.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/leaflet/leaflet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/leaflet/leaflet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/leaflet/leaflet.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/leaflet/plugin/geocoder/mapbox-gl-geocoder.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/leaflet/plugin/geocoder/mapbox-gl-geocoder.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/leaflet/plugin/routing/leaflet-routing-machine.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/leaflet/plugin/routing/leaflet-routing-machine.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/leaflet/plugin/routing/leaflet-routing-machine.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/leaflet/plugin/routing/leaflet.routing.icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/leaflet/plugin/routing/leaflet.routing.icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/leaflet/plugin/routing/routing-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/misc/screenshot-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/misc/screenshot-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/patterns.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/previewer-src/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/previewer-src/components/app-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/previewer-src/components/category-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/previewer-src/components/component-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/previewer-src/components/components-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/previewer-src/components/notfound-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/previewer-src/components/pattern-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/previewer-src/components/patterns-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/previewer-src/components/platform-select.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/previewer-src/components/preview-component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/previewer-src/components/theme-select.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/previewer-src/index.html.eco" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/previewer-src/select-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/previewer-src/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/previewer-src/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/components/action-sheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/components/alert-dialog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/components/button-bar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/components/button.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/components/card.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/components/checkbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/components/combination.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/components/dialog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/components/fab.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/components/global.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/components/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/components/list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/components/modal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/components/notification.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/components/page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/components/popover.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/components/progress-bar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/components/progress-circular.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/components/radio-button.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/components/range.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/components/search-input.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/components/segment.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/components/select.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/components/switch.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/components/tabbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/components/text-input.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/components/textarea.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/components/toast.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/components/toolbar-button.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/components/toolbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/components/util.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/dark-onsen-css-components.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/dark-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/img/android-search-input-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/img/ios-search-input-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/img/select-arrow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/iphonex-support/action-sheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/iphonex-support/combination.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/iphonex-support/fab.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/iphonex-support/global.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/iphonex-support/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/iphonex-support/page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/iphonex-support/tabbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/iphonex-support/toast.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/iphonex-support/toolbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/license.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/old-onsen-css-components.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/old-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/onsen-css-components.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/src/theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/stylelint.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css-components-src/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css/dark-onsen-css-components.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css/dark-onsen-css-components.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css/font_awesome/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css/font_awesome/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css/font_awesome/css/v4-shims.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css/font_awesome/css/v4-shims.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css/font_awesome/fonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css/font_awesome/fonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css/font_awesome/fonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css/font_awesome/fonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css/font_awesome/fonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css/font_awesome/fonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css/font_awesome/fonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css/font_awesome/fonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css/font_awesome/fonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css/font_awesome/fonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css/font_awesome/fonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css/font_awesome/fonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css/font_awesome/fonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css/font_awesome/fonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css/font_awesome/fonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css/ionicons/css/ionicons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css/ionicons/css/ionicons.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css/ionicons/fonts/ionicons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css/ionicons/fonts/ionicons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css/ionicons/fonts/ionicons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css/ionicons/fonts/ionicons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css/material-design-iconic-font/css/material-design-iconic-font.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css/material-design-iconic-font/css/material-design-iconic-font.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css/material-design-iconic-font/fonts/Material-Design-Iconic-Font.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css/material-design-iconic-font/fonts/Material-Design-Iconic-Font.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css/material-design-iconic-font/fonts/Material-Design-Iconic-Font.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css/material-design-iconic-font/fonts/Material-Design-Iconic-Font.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css/material-design-iconic-font/fonts/Material-Design-Iconic-Font.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css/old-onsen-css-components.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css/old-onsen-css-components.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css/onsen-css-components.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css/onsen-css-components.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css/onsenui-core.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css/onsenui-core.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css/onsenui-fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css/onsenui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/css/onsenui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/base/base-button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/base/base-checkbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/base/base-dialog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/base/base-element.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/base/base-input.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-action-sheet-button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-action-sheet/animator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-action-sheet/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-alert-dialog-button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-alert-dialog/animator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-alert-dialog/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-back-button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-bottom-toolbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-card.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-carousel-item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-checkbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-col.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-dialog/animator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-dialog/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-fab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-gesture-detector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-icon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-if.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-input.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-lazy-repeat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-list-header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-list-item/animator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-list-item/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-list-title.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-modal/animator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-modal/fade-animator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-modal/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-modal/lift-animator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-navigator/animator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-navigator/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-navigator/ios-fade-animator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-navigator/ios-lift-animator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-navigator/ios-slide-animator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-navigator/ios-swipe-animator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-navigator/md-fade-animator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-navigator/md-lift-animator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-navigator/md-slide-animator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-navigator/none-animator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-popover/animator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-popover/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-progress-bar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-progress-circular.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-pull-hook.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-radio.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-range.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-ripple/animator-css.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-ripple/animator-js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-ripple/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-row.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-search-input.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-segment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-select.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-speed-dial-item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-speed-dial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-splitter-content.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-splitter-mask.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-splitter-side.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-splitter/animator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-splitter/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-splitter/overlay-animator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-splitter/push-animator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-splitter/reveal-animator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-switch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-tab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-tabbar/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-template.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-toast/animator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-toast/ascend-animator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-toast/fade-animator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-toast/fall-animator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-toast/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-toast/lift-animator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-toolbar-button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/elements/ons-toolbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/ons/action-sheet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/ons/animation-options-parser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/ons/animit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/ons/autostyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/ons/base-animator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/ons/content-ready.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/ons/doorlock.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/ons/elements.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/ons/gesture-detector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/ons/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/ons/internal/animator-factory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/ons/internal/device-back-button-dispatcher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/ons/internal/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/ons/internal/internal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/ons/internal/lazy-repeat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/ons/internal/modifier-util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/ons/internal/swipe-reveal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/ons/internal/swiper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/ons/internal/toast-queue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/ons/iphonex-patch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/ons/microevent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/ons/modifier.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/ons/notification.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/ons/orientation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/ons/page-attribute-expression.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/ons/page-loader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/ons/platform.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/ons/software-keyboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/ons/styler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/ons/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/polyfills/MutationObserver@0.7.22/MutationObserver.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/polyfills/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/polyfills/polyfill-switches.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/polyfills/setImmediate@1.0.2+mod/setImmediate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/vendor/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/esm/vendor/viewport.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/js/angular-onsenui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/js/angular-onsenui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/js/onsenui.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/js/onsenui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/js/onsenui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/onsen/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/skeleton/jquery.scheletrone.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/skeleton/jquery.skeleton.css" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="63" selection-start-line="27" selection-start-column="63" selection-end-line="27" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/js/config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="117">
+              <caret line="232" column="67" selection-start-line="232" selection-start-column="67" selection-end-line="232" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>beep.wav</find>
+      <find>playSound</find>
+      <find>K-Restaurant</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/config.xml" />
+        <option value="$PROJECT_DIR$/www/js/config.js" />
+        <option value="$PROJECT_DIR$/www/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-4" />
+    <option name="width" value="1688" />
+    <option name="height" value="1054" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bdeliverydemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bdeliverydemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bdeliverydemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bdeliverydemo" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bdeliverydemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bdeliverydemo" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c7c75d8-da35-4557-a315-fbe1473b0964" name="Default Changelist" comment="" />
+      <created>1561301914938</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561301914938</updated>
+      <workItem from="1561301918568" duration="3372000" />
+      <workItem from="1561415085585" duration="36000" />
+      <workItem from="1561483924182" duration="2215000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial Release">
+      <created>1561303857639</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1561303857639</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5623000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1366" height="732" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24944155" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32781458" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Initial Release" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Release" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/www/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="3914" column="25" lean-forward="true" selection-start-line="3914" selection-start-column="25" selection-end-line="3914" selection-end-column="25" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ons-carousel-item#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/template.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1305" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="232" column="67" selection-start-line="232" selection-start-column="67" selection-end-line="232" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoogleService-Info.plist">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="63" selection-start-line="27" selection-start-column="63" selection-end-line="27" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
